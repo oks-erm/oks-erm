@@ -9,7 +9,7 @@ I like knowing stuff, solving puzzles and reverse engineering.
 ### My stack:
 
 <a href="https://skillicons.dev">
-    <img height="35" src="https://skillicons.dev/icons?i=py,js,ts,ruby,html,css&theme=light" />
+    <img height="35" src="https://skillicons.dev/icons?i=py,js,ruby,ts,html,css&theme=light" />
 </a>
 <br>
 <a href="https://skillicons.dev">
