@@ -1,6 +1,6 @@
 ### Hi, I am Oksana! 
 
-a data-driven Full Stack Developer and an AI nutter. Currently I am finishing a Full Stack Development course with [Code Institute](https://codeinstitute.net) and looking forward to progress my career in tech. 
+a data-driven Full Stack Developer and an AI nutter. Currently, I am finishing a Full Stack Development course with [Code Institute](https://codeinstitute.net) and looking forward to progressing my career in tech. 
 
 I like knowing stuff, solving puzzles and reverse engineering.
 
