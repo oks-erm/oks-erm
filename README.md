@@ -1,10 +1,9 @@
 ### Hi, I am Oksana! 
  
-a data-driven Full Stack Developer and an AI nutter. A recent graduate of a Full Stack Development course with [Code Institute](https://codeinstitute.net), looking forward to progressing my career in tech. 
+a data-driven Full Stack Developer, Pythonista and self-proclaimed AI nutter, thoroughly enjoying the backend magic. A recent graduate of a Full Stack Development course with [Code Institute](https://codeinstitute.net), currently freelancing. Looking forward to progressing my career in tech. 
 
-I like knowing stuff, solving puzzles and reverse engineering.
+I enjoy learning by building, knowing why, solving puzzles and reverse engineering.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oks-erm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My stack:
 
