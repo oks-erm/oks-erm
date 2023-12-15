@@ -4,6 +4,9 @@ a data-driven Full Stack Developer, Pythonista and self-proclaimed AI nutter, th
 
 I enjoy learning by building, knowing why, solving puzzles and reverse engineering.
 
+I’m currently working on custom gesture recognition model.
+
+I’m currently learning C.
 
 ### My stack:
 
