@@ -1,12 +1,10 @@
 ### Hi, I am Oksana! 
  
-a data-driven Full Stack Developer, Pythonista and self-proclaimed AI nutter, thoroughly enjoying the backend magic. A recent graduate of a Full Stack Development course with [Code Institute](https://codeinstitute.net), currently freelancing. Looking forward to progressing my career in tech. 
+Pythonista and self-proclaimed AI nutter, thoroughly enjoying the backend magic. Currently, a student of 42 because learning is always fun.
 
 I enjoy learning by building, knowing why, solving puzzles and reverse engineering.
 
-I’m currently working on custom gesture recognition model.
-
-I’m currently learning C.
+currently learning C and C++
 
 ### My stack:
 
