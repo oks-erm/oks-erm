@@ -3,8 +3,7 @@
 Pythonista and self-proclaimed AI nutter, thoroughly enjoying the backend magic. Currently, a student of 42 because learning is always fun.
 
 I enjoy learning by building, knowing why, solving puzzles and reverse engineering.
-
-currently learning C and C++
+I am not a robot, but I'm working on it.
 
 ### My stack:
 
